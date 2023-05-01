@@ -1,0 +1,56 @@
+[
+    {
+        "id": "a",
+        "name": "Chef Nongkran",
+        "image_url": "https://example.com/nongkran.jpg",
+        "bio": "Chef Nongkran is a master of Thai cuisine with over 30 years of experience. She grew up in Thailand and learned to cook from her mother and grandmother. In 1999, she opened her own restaurant, Thai Basil, in Chantilly, Virginia.",
+        "years_of_experience": 30,
+        "likes": 5000,
+        "num_of_recipes": 3
+    },
+    {
+        "id": "b",
+        "name": "Chef Andy Ricker",
+        "image_url": "https://example.com/andy.jpg",
+        "bio": "Chef Andy Ricker is an American chef and restaurateur who specializes in Thai cuisine. He is the owner of Pok Pok Restaurants and has won numerous awards for his culinary creations.",
+        "years_of_experience": 20,
+        "likes": 8000,
+        "num_of_recipes": 3
+    },
+    {
+        "id": "c",
+        "name": "Chef David Thompson",
+        "image_url": "https://example.com/david.jpg",
+        "bio": "Chef David Thompson is an Australian chef and restaurateur who is renowned for his expertise in Thai cuisine. He is the founder of the Nahm restaurant in Bangkok, which has been named one of the best restaurants in the world.",
+        "years_of_experience": 25,
+        "likes": 6000,
+        "num_of_recipes": 3
+    },
+    {
+        "id": "d",
+        "name": "Chef Duangporn Songvisava",
+        "image_url": "https://example.com/duangporn.jpg",
+        "bio": "Chef Duangporn Songvisava is a Thai chef and restaurateur who co-owns the Bo.lan restaurant in Bangkok with her husband. She is known for her commitment to sustainable and organic ingredients in her dishes.",
+        "years_of_experience": 15,
+        "likes": 4000,
+        "num_of_recipes": 3
+    },
+    {
+        "id": "e",
+        "name": "Chef Sujet Saenkham",
+        "image_url": "https://example.com/sujet.jpg",
+        "bio": "Chef Sujet Saenkham is a Thai chef and restaurateur who is the owner of Spice Market restaurants in New York, London, and Doha. He has won numerous awards for his innovative takes on traditional Thai dishes.",
+        "years_of_experience": 18,
+        "likes": 7000,
+        "num_of_recipes": 3
+    },
+    {
+        "id": "f",
+        "name": "Chef Nooror Somany Steppe",
+        "image_url": "https://example.com/nooror.jpg",
+        "bio": "Chef Nooror Somany Steppe is a Thai chef and restaurateur who is the co-founder and culinary director of the Blue Elephant chain of restaurants. She has received many awards for her contributions to the Thai culinary scene.",
+        "years_of_experience": 28,
+        "likes": 9000,
+        "num_of_recipes": 3
+    }
+]
