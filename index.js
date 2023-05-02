@@ -16,6 +16,12 @@ app.get('/chefs', (req, res) =>{
     res.send(chefs)
 });
 
+app.get('/chefs/chef/:id', (req, res) =>{
+    const id = req.params.id;
+    const chef = chefs.find(c => c.id === id);
+    res.send(chef);
+})
+
 app.get('/chefs/:id', (req, res) => {
     const id = req.params.id;
     console.log('i need data for id: ', id);
